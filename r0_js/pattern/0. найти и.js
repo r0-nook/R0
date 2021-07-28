@@ -42,3 +42,8 @@ for(i;i<n;i++){
     rPrime += i + ' ';
 }
 return rPrime;
+
+//найти big letter count
+    let rCount=0;
+    for(let i=0; i<str.length; i++)toUpperCase(str[i]) === str[i]?rCount+=1:0
+    return rCount;

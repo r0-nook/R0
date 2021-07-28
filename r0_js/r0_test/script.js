@@ -1,6 +1,11 @@
 'use strict';debugger;
-	let n=11;
-	let i=2;
-	let r0;
-for(i;i<n;i++){if(n>1 && n%i===0){r0=true}}r0=false;
-    	const r1=r0;
+let r0='many different words inside sentence';
+	let i=0;
+	r0=r0.split(' ');
+	for(i; i<r0.length; i++){
+		r0[i]=r0[i].split('');
+		r0[i][0]=r0[i][0].toUpperCase();
+		r0[i]=r0[i].join('');
+	}
+	r0=r0.join(' ');
+const r1 = r0;

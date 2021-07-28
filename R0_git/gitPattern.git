@@ -68,8 +68,8 @@ git add com{tab} это git add components
 		    git push
 		}
 		или
-		gacp=git add . $t git commit "moldcalm" $t git push
-		gacp=git add . $t git commit -m "moldcalm" $t git push --all
+		gacp=git add . $t git commit "r fast load" $t git push
+		gacp=git add . $t git commit -m "r fast load" $t git push --all
 
 	+380508252738
 D:\googledownload\cmder\config
@@ -92,3 +92,6 @@ git fetch
 		gacp=git add . $t git commit -m "moldcalm" $t git push --all
 		gh=git checkout
 		gb=git branch
+if
+The file will have its original line endings in your working directory
+git config core.autocrlf true
