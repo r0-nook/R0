@@ -1,0 +1,22 @@
+{
+  "name": "r0_test-node-1",
+  "version": "1.0.0",
+  "description": "nan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "node.js",
+    "r0_"
+  ],
+  "author": "r0_, g0ldenlights",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
