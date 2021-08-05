@@ -1,0 +1,17 @@
+Questions
+0. How to load lightshoot to autoupload
+1. How to enter fan to autoupload
+sudo pwmconfig
+
+2. How to enter inteligiidea
+
+Answer
+0. запуск из коммандной строки
+    cd - возврат в домашнюю директорию текущего пользователя;
+    ls - вывод списка файлов и директорий в текущем каталоге.
+
+
+
+
+
+

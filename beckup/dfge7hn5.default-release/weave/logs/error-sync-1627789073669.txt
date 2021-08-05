@@ -1,0 +1,21 @@
+1627788433348	Sync.LogManager	DEBUG	Flushing file log
+1627788433354	Sync.LogManager	DEBUG	Log cleanup threshold time: 1626924433354
+1627788433364	Sync.LogManager	DEBUG	Done deleting files.
+1627789033338	Sync.Service	DEBUG	User-Agent: Firefox/90.0 (Linux x86_64) FxSync/1.92.0.20210705185941.desktop
+1627789033350	Sync.Service	INFO	Starting sync at 2021-08-01 06:37:13 in browser session 6HoCpPdxryuo
+1627789033350	Sync.SyncScheduler	DEBUG	Clearing sync triggers and the global score.
+1627789033881	Sync.Status	INFO	Resetting Status.
+1627789033881	Sync.Status	DEBUG	Status.service: error.sync.failed => success.status_ok
+1627789033882	FirefoxAccounts	DEBUG	FxAccountsProfileClient: Requested profile
+1627789033888	FirefoxAccounts	DEBUG	getOAuthToken enter
+1627789033940	FirefoxAccounts	TRACE	getCachedToken returning cached token
+1627789033941	FirefoxAccounts	DEBUG	getOAuthToken returning a cached token
+1627789033959	Services.Common.RESTRequest	DEBUG	GET request to https://profile.accounts.firefox.com/v1/profile
+1627789073637	Sync.Resource	WARN	GET request to https://sync-1-us-west1-g.sync.services.mozilla.com/1.5/188766579/info/collections failed: [Exception... "The lookup of the hostname failed"  nsresult: "0x804b001e (NS_ERROR_UNKNOWN_HOST)"  location: "<unknown>"  data: no] No traceback available
+1627789073662	Sync.Status	DEBUG	Status.sync: success.sync => error.login.reason.network
+1627789073662	Sync.Status	DEBUG	Status.service: success.status_ok => error.sync.failed
+1627789073662	Sync.ErrorHandler	ERROR	Sync encountered an error: [Exception... "The lookup of the hostname failed"  nsresult: "0x804b001e (NS_ERROR_UNKNOWN_HOST)"  location: "<unknown>"  data: no] No traceback available
+1627789073663	Sync.SyncScheduler	DEBUG	Sync error count has exceeded 3; enforcing backoff.
+1627789073663	Sync.SyncScheduler	DEBUG	Starting client-initiated backoff. Next sync in 4691448 ms.
+1627789073663	Sync.SyncScheduler	DEBUG	Next sync in 4691448 ms. (why=client-backoff-schedule)
+1627789073668	Sync.Service	DEBUG	Exception calling anonymous function: [Exception... "The lookup of the hostname failed"  nsresult: "0x804b001e (NS_ERROR_UNKNOWN_HOST)"  location: "<unknown>"  data: no] No traceback available
