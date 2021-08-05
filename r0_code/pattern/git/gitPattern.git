@@ -1,31 +1,31 @@
+git config --list
+nano ~/.gitconfig
+//Press CTRL and X, then Y then ENTER to exit the text editor. 
+
+\\ смена пароля
+git config --global --unset user.password
+
 touch - создание файла
 mkdir - создание директории
 git init
 git add .
-git commit -m
-
 git commit -m "комментарий к комиту"
 git commit => ESC => :wq => enter
 
 // переход на главную
 	git checkout main
-
 // слияние ветки с текущей
 	git merge название_ветки
-
 создание ветки из продакшина
 	git checkout master
 	git checkout -b названиеВетки
 
 git sta{tab} это git status
-
 git add com{tab} это git add components
-
 работают почему то только в баше но не в конему
 	а некоторые хуяк и снова работают
 [alias]
 	для конему в файле user-aliases.cmd
-
 	hist = "log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=short"
   	type= "cat-file -t"
   	dump= "cat-file -p"
@@ -81,7 +81,6 @@ D:\googledownload\cmder\config
 
 git fetch
 	Try git fetch so that your local repository gets all the new info from github. It just takes the information about new branches and no actual code. After that the git checkout should work fine.
-
 	в user_aliases.cmd conemu записано
 		gs=git status
 		gi=git init
@@ -95,3 +94,4 @@ git fetch
 if
 The file will have its original line endings in your working directory
 git config core.autocrlf true
+

@@ -18,3 +18,5 @@ ls -a
 ls -l
 // содержимое
 dir
+// испорльзуй nano вместо gedit edit vi
+в nano работает ctrl+s
