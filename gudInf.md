@@ -1,4 +1,3 @@
-
 гуд инфо
 контрал шифт > свернуть суперД > открыть суперF
 паст шифтИнсерт > copy shiftHome
@@ -26,3 +25,4 @@ git config --global user.name "r0-nook"
 git config --global user.email wodrom@gmail.com
 git config --list
 
+в телегу не грузится с догдейс

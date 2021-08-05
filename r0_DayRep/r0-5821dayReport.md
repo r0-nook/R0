@@ -73,50 +73,10 @@ git config --global user.name "r0-nook"
 git config --global user.email wodrom@gmail.com
 
 
+перерыв фуд сериал безделие
+лаки
+ванна
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-перерыв
 
 Задачи.
 1. Вычитать eng stepik 
@@ -126,7 +86,7 @@ git config --global user.email wodrom@gmail.com
 1. 12 циклов на линукс
 1. 12 циклов на коммандную строку
 1. 12 циклов на гит
-1. 12 циклов нахуй
+1. 12 циклов джава -7
 
 
 
