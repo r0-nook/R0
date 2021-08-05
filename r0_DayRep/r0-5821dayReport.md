@@ -68,6 +68,53 @@ PATH=/opt/maven/bin:${PATH}
 //
 ctrl+V > ctrl+x > y > enter
 mvn archetype:generate
+sudo apt install git
+git config --global user.name "r0-nook"
+git config --global user.email wodrom@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 перерыв
 
@@ -80,5 +127,31 @@ mvn archetype:generate
 1. 12 циклов на коммандную строку
 1. 12 циклов на гит
 1. 12 циклов нахуй
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 

@@ -20,3 +20,9 @@ sudo apt-get purge openjdk*
 nano pom.xml
 Исходники программы находятся в папке src/main/java/com/losst/App.java:
 cat src/main/java/com/losst/App.java
+
+git config
+git config --global user.name "r0-nook"
+git config --global user.email wodrom@gmail.com
+git config --list
+
