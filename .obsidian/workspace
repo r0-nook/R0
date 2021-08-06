@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "02b02fe6806d248d",
+        "id": "e6144350011de988",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "R0_tail/now work/0.1.2. 0.5. Mold. Часть 2. v0.1/structure2/6.гриб+неф+апп.md",
+            "file": "R0_tail/n8/1. (навь) Чистилище/SkidMark/SkidMark.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304
+    "width": 215
   },
   "right": {
     "id": "ad3f673759020138",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R0_tail/now work/0.1.2. 0.5. Mold. Часть 2. v0.1/structure2/6.гриб+неф+апп.md",
+                "file": "R0_tail/n8/1. (навь) Чистилище/SkidMark/SkidMark.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "02b02fe6806d248d",
+  "active": "e6144350011de988",
   "lastOpenFiles": [
-    "R0_tail/now work/0.1.2. 0.5. Mold. Часть 2. v0.1/structure2/Untitled.md",
-    "R0_tail/now work/0.1.2. 0.5. Mold. Часть 2. v0.1/фон панацея.md",
-    "R0_tail/now work/0.1.2. 0.5. Mold. Часть 2. v0.1/програмирование коробки.md",
-    "R0_tail/now work/0.1.2. 0.5. Mold. Часть 2. v0.1/Выверт.md",
-    "R0_tail/now work/0.1.2. 0.5. Mold. Часть 2. v0.1/6. подготовка к письму.md",
-    "R0_tail/now work/0.1.2. 0.5. Mold. Часть 2. v0.1/5.5. бордель крыша контакт летуны.md",
-    "R0_tail/now work/0.1.2. 0.5. Mold. Часть 2. v0.1/5. согласие неф атак бордель захват.md",
-    "R0_tail/now work/0.1.2. 0.5. Mold. Часть 2. v0.1/4.5. контра сплетницы.md",
-    "R0_tail/now work/0.1.2. 0.5. Mold. Часть 2. v0.1/4. скп осмотр статус директор.md",
-    "R0_tail/now work/0.1.2. 0.5. Mold. Часть 2. v0.1/3. спик рыжый, отель ноут куратор.md"
+    "R0_tail/n8/1. (навь) Чистилище/SkidMark/SkidMark.md",
+    "R0_tail/n8/0. Вход/Tats/Доклады/структура стаи.md",
+    "R0_tail/n8/реридено/стая/структура стаи R0.md",
+    "R0_tail/n8/0. Вход/Том/All guns loaded.md",
+    "R0_tail/n8/0. Вход/фея/структура фея.md",
+    "R0_tail/n8/1. (навь) Чистилище/Redhood/redhood old/0.5 Mold .8 панацея А.md",
+    "R0_tail/n8/1. (навь) Чистилище/Redhood/redhood old/крассная шапочка.md",
+    "R0_tail/n8/1. (навь) Чистилище/Redhood/структура Ред.md",
+    "R0_tail/n8/1. (навь) Чистилище/Чистилище навь.md",
+    "R0_tail/n8/1. (навь) Чистилище/SkidMark.md"
   ]
 }
