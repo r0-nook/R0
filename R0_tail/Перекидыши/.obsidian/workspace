@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "4a800ce0709c2197",
+    "type": "split",
+    "children": [
+      {
+        "id": "96f783f22f134a72",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2. враги.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b7a69cd9a2b53ac2",
+    "type": "split",
+    "children": [
+      {
+        "id": "96446db9cb294c5e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eef287b9582c976d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "69c10a48fa77dba5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 203
+  },
+  "right": {
+    "id": "2236eee044af7bc2",
+    "type": "split",
+    "children": [
+      {
+        "id": "6945a10e1d6b83cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db27f06e6630da5f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2. враги.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "96f783f22f134a72",
+  "lastOpenFiles": [
+    "2. враги.md",
+    "1. Чистилице, Правь, Союзники.md",
+    "0. Вход. Крыса..md",
+    "враги.md",
+    "Чистилице, Правь, Союзники.md",
+    "Вход. Крыса. Структура.md",
+    "Untitled.md",
+    "Чистилице, Навь, Союзники.md",
+    "Untitled 1.md",
+    "Вход. Крыса..md"
+  ]
+}
