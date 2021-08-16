@@ -1,3 +1,19 @@
+ Settings => Developer Settings => Personal Access Token => Generate New Token (Give your password) => Fillup the form => click Generate token => Copy the generated Token
+
+$ git config --global user.name ""
+$ git config --global user.email ""
+$ git config -l
+
+пропушить влепить токен вместо пароля
+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
+
+git config --global credential.helper cache
+// закешить
+
+
+
+
+
 git config --list
 nano ~/.gitconfig
 //Press CTRL and X, then Y then ENTER to exit the text editor. 
