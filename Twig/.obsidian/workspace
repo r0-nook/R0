@@ -6,11 +6,10 @@
       {
         "id": "3fd26eafc0630c20",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "idea.md",
+            "file": "Player/Enemes/Mr. Snake Charmer.md",
             "mode": "source"
           }
         }
@@ -40,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Редхема",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,10 +68,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "idea.md",
+                "file": "Player/Enemes/Mr. Snake Charmer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -85,16 +86,17 @@
     "width": 300,
     "collapsed": true
   },
+  "active": "3fd26eafc0630c20",
   "lastOpenFiles": [
+    "Player/Enemes/Untitled.md",
+    "Untitled 1.md",
+    "Spec dog.md",
+    "Project/Project.md",
     "idea.md",
     "Hayle.md",
     "arc 3 enemy.md",
     "Enemes/Percy.md",
     "Enemes/Louis.md",
-    "Enemes/GoodWin.md",
-    "Enemes/Cynthia.md",
-    "Enemes/Avis.md",
-    "Genevieve Fray/Genevieve Fray.md",
-    "Genevieve Fray/Wendy.md"
+    "Enemes/GoodWin.md"
   ]
 }
