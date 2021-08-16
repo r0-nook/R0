@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0.3. выпуск.md",
+            "file": "0. Вход. Крыса..md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.3. выпуск.md",
+                "file": "0. Вход. Крыса..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,11 +88,11 @@
   },
   "active": "96f783f22f134a72",
   "lastOpenFiles": [
+    "0. Вход. Крыса..md",
     "0.3. выпуск.md",
     "0.4. второй цикл.md",
     "0.6. после выпуска.md",
     "0.5. выпуск.md",
-    "0. Вход. Крыса..md",
     "0.1. подарок кисет.md",
     "0.2. крысун седой.md",
     "стая/Стая Досъе.md",
