@@ -5,7 +5,7 @@ $ git config --global user.email ""
 $ git config -l
 
 пропушить влепить токен вместо пароля
-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
+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
 
 git config --global credential.helper cache
 // закешить

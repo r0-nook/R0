@@ -1,0 +1,5 @@
+Toward the back of the property, I could see that Ralph Stein was in the process of walking the top of the wall.  The route went from the right side of the gate, over to the right of the house, alongside the riverbank, around the back of the house, under the tricky bit where the tree’s branches hung over, up the left side of the house, and then over to the left side of the gate.  All on the weather-rounded, uneven stones that made up the wall’s top, virtually always in the rain.
+Ближе к задней части поместья я мог видеть, что Ральф Штайн шел по вершине стены. Маршрут проходил с правой стороны ворот, направо от дома, вдоль берега реки, вокруг задней части дома, под хитрым узлом, где нависали ветви дерева, вверх по левой стороне дома и затем проход к левой стороне ворот. И все это на закругленных, неровных камнях, которые составляли верхнюю часть стены, практически всегда под дождем.
+
+“I did what I could,” Lillian said, “Neutralized the spread with counteragents our target had on hand.”
+- Я сделала все, что могла, - сказала Лилиан, - Нейтрализовала распространение с помощью контррагентами, которые были под рукой у нашей цели.
