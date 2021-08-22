@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Player/Enemes/Mr. Snake Charmer.md",
+            "file": "idea.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Player/Enemes/Mr. Snake Charmer.md",
+                "file": "idea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "3fd26eafc0630c20",
   "lastOpenFiles": [
-    "Player/Enemes/Mr. Snake Charmer.md",
-    "Player/Enemes/Untitled.md",
-    "Untitled 1.md",
-    "Spec dog.md",
-    "Project/Project.md",
     "idea.md",
-    "Hayle.md",
-    "arc 3 enemy.md",
-    "Enemes/Percy.md",
-    "Enemes/Louis.md"
+    "Player/Project/Lambs/Jamie.md",
+    "Player/Project/Lambs/Gordon.md",
+    "Player/Project/Lambs/Сильвестр(Sy)_Wyvern.md",
+    "Player/Project/Lambs/Ashton Le Deux.md",
+    "Player/Project/Lambs/Ashton.md",
+    "Player/Project/Lambs/Evette.md",
+    "Player/Project/Lambs/Helen_Galatea.md",
+    "Player/Project/Lambs/Lambs.md",
+    "Player/Project/Lambs/Lillian.md"
   ]
 }
