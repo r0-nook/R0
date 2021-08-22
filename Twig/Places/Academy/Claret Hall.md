@@ -1,0 +1,1 @@
+Claret Hall being the center of campus, where students gathered and ate, where key administration facilities were available, and where some of the key elements of the campus and core classes were taught.  If all aspects of Radham flowed from the Academy, then all aspects of the Academy flowed from Claret Hall.

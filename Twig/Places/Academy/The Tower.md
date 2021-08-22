@@ -1,0 +1,1 @@
+The Tower, Mr. Hayle’s department opposite end of the Academy campus from the Hedge where I’d been, was largely focused on research and development regarding the brain.  Widely viewed as a dead end, the department had defaulted to handling a lot of information storage, memory banks, and files.
